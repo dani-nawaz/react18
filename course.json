@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "Brian Holt",
+    "company": "Stripe"
+  },
+  "title": "Complete Intro to React v8",
+  "subtitle": "and Intermediate React v5",
+  "frontendMastersLink": "https://frontendmasters.com/courses/complete-react-v8/",
+  "social": {
+    "linkedin": "btholt",
+    "github": "btholt",
+    "twitter": "holtbt"
+  },
+  "description": "Come learn React from Brian Holt, a veteran React.js developer on Frontend Masters",
+  "keywords": ["react", "reactjs", "brian holt", "javascript", "node", "nodejs", "js", "redux", "tailwindcss", "testing", "typescript", "hooks", "vite"]
+}
